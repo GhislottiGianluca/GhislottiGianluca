@@ -1,5 +1,5 @@
 <h1 align="center">Hi everyone 👋, I'm Gianluca Ghislotti</h1>
-<h3 align="center">a B.Sc. Computer Science graduate and currently a M.Sc. Computer Science student at University of Milan-Bicocca (Italy).</h3>
+<h3 align="center">a B.Sc. Computer Science graduate and actually a M.Sc. Computer Science student at University of Milan-Bicocca (Italy).</h3>
 <img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
