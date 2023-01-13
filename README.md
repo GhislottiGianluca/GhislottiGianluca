@@ -5,7 +5,7 @@
 
 🔭 I am currently studying for university while carrying out my personal projects in this profile.
 
-🤝 I am trying to start contributing to **open source projects**.
+🤝 I am starting to contributing to **open source projects**.
 
 📫 How to reach me **ghislottigianluca8@gmail.com**
 
