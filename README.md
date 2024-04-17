@@ -1,5 +1,5 @@
 <h1 align="center">Hi everyone 👋, I'm Gianluca Ghislotti</h1>
-<h3 align="center">a Double Degree Master Student at Università della Svizzera Italiana (USI) and Unversity of Milan Bicicca.</h3>
+<h3 align="center">a Double Degree Master Student at Università della Svizzera Italiana (USI) and Unversity of Milan Bicocca.</h3>
 <img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ghislottigianluca&label=Profile%20views&color=0e75b6&style=flat" alt="ghislottigianluca" /> </p>
