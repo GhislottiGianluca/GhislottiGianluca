@@ -28,5 +28,3 @@
 <h2 align="left">Profile statistics</h3>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ghislottigianluca&show_icons=true&locale=en" alt="ghislottigianluca" /></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ghislottigianluca&show_icons=true&locale=en&layout=compact" alt="ghislottigianluca" /></p>
